@@ -3,6 +3,7 @@
  *
  *  Created on: 13 de set de 2016
  *      Author: mathias
+ *      Class: STE
  */
 
 #include "ADCconv.h"
